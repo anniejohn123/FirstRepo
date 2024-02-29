@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Tech Innovations Inc.",
+    "deadline": "2024-03-15",
+    "eligible_students_count": 2,
+    "eligible_students": [
+      {"name": "Alice Johnson", "roll_no": "A1234"},
+      {"name": "Charlie Davis", "roll_no": "C5678"}
+    ],
+    "ineligible_students": [
+      {"name": "Bob Smith", "roll_no": "B4321"}
+    ]
+  },
+  {
+    "name": "Health Solutions Ltd.",
+    "deadline": "2024-04-22",
+    "eligible_students_count": 1,
+    "eligible_students": [
+      {"name": "Diana Adams", "roll_no": "D9876"}
+    ],
+    "ineligible_students": [
+      {"name": "Eric Brown", "roll_no": "E2468"}
+    ]
+  },
+  {
+    "name": "Eco Builders Co.",
+    "deadline": "2024-05-30",
+    "eligible_students_count": 2,
+    "eligible_students": [
+      {"name": "George Davis", "roll_no": "G1357"},
+      {"name": "Ian Frank", "roll_no": "I9753"}
+    ],
+    "ineligible_students": [
+      {"name": "Hannah Evans", "roll_no": "H8642"}
+    ]
+  },
+  {
+    "name": "Innovative Technologies LLC",
+    "deadline": "2024-06-15",
+    "eligible_students_count": 3,
+    "eligible_students": [
+      {"name": "John Smith", "roll_no": "J2468"},
+      {"name": "Lisa Johnson", "roll_no": "L9876"},
+      {"name": "Michael Brown", "roll_no": "M1357"}
+    ],
+    "ineligible_students": []
+  },
+  {
+    "name": "Global Solutions Inc.",
+    "deadline": "2024-07-10",
+    "eligible_students_count": 0,
+    "eligible_students": [],
+    "ineligible_students": [
+      {"name": "Olivia Davis", "roll_no": "O7531"},
+      {"name": "Peter Wilson", "roll_no": "P3698"}
+    ]
+  }
+]
